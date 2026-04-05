@@ -1,0 +1,11 @@
+# GitBook 配置版本
+version: "3.0.0"
+
+# 指定文档源码的根目录
+# 既然你把 SUMMARY.md 和笔记都放进了 src，这里必须指向 src
+root: "./src"
+
+# 如果你以后有多个维度的内容，可以在这里定义结构（可选）
+structure:
+  readme: "README.md"
+  summary: "SUMMARY.md"
