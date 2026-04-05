@@ -1,0 +1,4 @@
+book/
+.mdbook-temp/
+book.toml
+*.pdf
